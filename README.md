@@ -6,7 +6,7 @@
 
 <p align="center"
 
-[RENTRY](https://rentry.co/invictus) ‧ [SPRiNG](https://spring.love4eva.net/@narancia) ‧ [STRAWPAGE](https://saintuary.straw.page/) ‧ [ATABOOK](https://narancia.atabook.org/)
+[RENTRY](https://rentry.co/invictus) ‧ [STRAWPAGE](https://saintuary.straw.page/) ‧ [ATABOOK](https://narancia.atabook.org/)
 </p>
 
 <p align="center">
